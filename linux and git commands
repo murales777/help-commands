@@ -1,0 +1,24 @@
+:wq! - Save file and close
+:q! - close without saving
+
+Create a New repository
+Clone a repository: git clone https://github.com/murales777/testproject.git
+goto Repository: cd first-project/
+Create a branch and checkout: git checkout -b murali_branch
+ls
+vim README.md
+vim README.md
+cat README.md
+git status
+git add .
+git status
+git commit -m "added python pdf"
+git config --global user.name "murales777"
+git config --global user.email srmuralikrishnan@gmail.com
+git commit -m "added python pdf"
+git push origin murali_branch
+history
+
+git config --global user.name "murales777"
+git config --global user.email srmuralikrishnan@gmail.com
+
